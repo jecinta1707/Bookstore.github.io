@@ -47,7 +47,7 @@ background-image:url(homepage_subcribe.jpg);
 #paragraph1{
 	color:black;
 	top: 30px;
-	left: 20%;
+	text-align: center;
 }
 
 #paragraph2{
@@ -75,7 +75,7 @@ background-image:url(homepage_subcribe.jpg);
 label {
     float: left;
     width: 80px;
-	color:black;
+	color:white;
 	
 	
 	}
